@@ -65,5 +65,4 @@ atlassian*
 !/vendor/.htaccess
 /generated/*
 !/generated/.htaccess
-!/generated/code/Magento/Plugin/Product.php
 .DS_Store
